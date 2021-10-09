@@ -1,0 +1,25 @@
+body{
+	background-image: url('../../gambar1.jpg');
+	background-position: center;
+	background-size: 500px;
+}
+
+h1{
+	color: rgb(200,200,200);
+	text-shadow: 3px 3px black;
+	text-align: center;
+	margin-top: 150px;
+}
+
+.clock{
+	background-color: black;
+	width: 350px;
+	height: 90px;
+	line-height: 90px;
+	font-size: 40px;
+	text-align: center;
+	margin: auto;
+	color: white;
+	border: solid rgb(200,200,200) 5px;
+	border-radius: 20px;
+}

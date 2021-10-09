@@ -1,0 +1,70 @@
+
+.container{
+	width: 400px;
+	background-color: black;
+	margin: 100px auto;
+	border: 2px solid red;
+	border-radius: 10px;
+	position: relative;
+}
+
+#err{
+	color: white;
+}
+
+.form{
+	width: 100%;
+	height: 40px;
+	margin-top: 20px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.input{
+	width: 88%;
+	height: 35px;
+	background: none;
+	border-radius: 10px;
+	font-size: 24px;
+}
+
+.btn-add{
+	width: 8%;
+	height: 28px;
+	line-height: 28px;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	padding: 5px 5px;
+	border: 1px solid white;
+	border-radius: 5px;
+	background-color: red;
+	position: absolute;
+	top: 20px;
+	right: 1px;
+}
+
+#ul{
+	color: white;
+}
+
+.list-item{
+	width: 100%;
+	height: 35px;
+	list-style: none;
+	background-color: white;
+	color: black;
+	font-size: 30px;
+	margin-left: -20px;
+	border-bottom: 2px solid black;
+	border-radius: 5px;
+}
+
+.btn-delete{
+	color: red;
+	cursor: pointer;
+}
+
+.true{
+	text-decoration: line-through;
+}

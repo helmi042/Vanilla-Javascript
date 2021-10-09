@@ -1,0 +1,27 @@
+body{
+	background-color: rgb(210,210,210)
+}
+.wrapper{
+	background-color: white;
+	text-align: center;
+	border: 2px solid black;
+	width: 40%;
+	height: 250px;
+	border-radius: 30px;
+	margin: 130px auto;
+}
+
+.wrapper p{
+	font-size: 35px;
+	color: blue;
+}
+
+.wrapper button{
+	font-size: 14px;
+	padding: 10px;
+	color: white;
+	background-color: black;
+	border-radius: 10px;
+	border: none;
+	cursor: pointer;
+}
